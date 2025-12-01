@@ -1,0 +1,9 @@
+Maple Document.
+
+这是开发分支.不要在主分支里直接开发，请push到origin:indev.
+This is INDEV branch.DON'T develop in main(master) branch.Please push into origin:indev.
+
+开发事项：
+1.请在commit时注明日期+内容，如 "YY/MM/DD Change xx doc"
+2.语言风格...未定
+3.没想好
