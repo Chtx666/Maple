@@ -6,6 +6,6 @@ This is INDEV branch.DON'T develop in main(master) branch.Please push into origi
 开发事项：
 1.请在commit时注明日期+内容，按照此格式 "YY/MM/DD:change1/change2/..."
 2.语言风格...未定
-3.没想好
+3.由于Git无法合并二进制文件，因此在一个开发人员编辑如场景等含二进制文件时，其他人员不要开发同文件
 
 在发行软件或合并至main分支时排除该文件
