@@ -1,11 +1,10 @@
-Maple Document.
+Maple indev branch Document.
 
-这是开发分支.不要在主分支里直接开发，请push到origin:indev.
-This is INDEV branch.DON'T develop in main(master) branch.Please push into origin:indev.
+indev为开发分支，勿在main分支里开发，请push到indev
 
 开发事项：
-1.请在commit时注明日期+内容，按照此格式 "YY/MM/DD:change1/change2/..."
-2.语言风格...未定
-3.由于Git无法合并二进制文件，因此在一个开发人员编辑如场景等含二进制文件时，其他人员不要开发同文件
+1.请在commit时注明日期+内容，按照此格式 "YY/MM/DD:Change1/Change2/..."
+2.语言风格 // TODO
+3.由于Git同时修改同一文件会引发冲突，因此在一人编辑文件时，其他人不要修改同文件
 
-在发行软件或合并至main分支时排除该文件
+在发行软件或合并至main分支时忽略该文件
